@@ -1,1 +1,2 @@
 # lab2-employees
+Lab 2 project defense task : https://cdn.discordapp.com/attachments/1159790594487500901/1213051654749028382/WhatsApp_Image_2023-12-12_at_8.37.51_AM_1_1.jpeg?ex=6634aae3&is=66335963&hm=3ff4d086eb8b1aa469af2340a96f836870d2d4e54938b5a3b04edaffc055a417&
